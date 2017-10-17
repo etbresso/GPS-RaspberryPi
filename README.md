@@ -1,0 +1,1 @@
+Le script Vitesse.py, s'exécutant sur un RaspberryPI, récupère la vitesse intannée grâce à un GPS et l'affichant sur un afficheur 4-Digit 7-Segment.
